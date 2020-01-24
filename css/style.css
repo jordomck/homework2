@@ -23,6 +23,7 @@ p {
 img {
     display: block;
     max-width: 525px;
+    width: 525px;
     margin: 0 auto;
 }
 
@@ -38,7 +39,6 @@ div {
 
 #blue {
     background-color: #051ED3;
-    text-align: left;
 }
 
 #yellow {
@@ -50,7 +50,6 @@ div {
 
 #green {
     background-color: #009A05;
-    text-align: left;
 }
 
 footer {
