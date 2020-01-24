@@ -23,7 +23,7 @@ p {
 img {
     display: block;
     max-width: 525px;
-    margin: 20 auto;
+    margin: 0 auto;
 }
 
 div {
